@@ -1,6 +1,8 @@
 
 # Marine Cloud Brightening
 
+**Authors:** Lena Predl, Enes Köksal, Julian Kragler and Raúl Muñoz Ruiz.
+
 This repository contains analysis notebooks and runscript configurations for an idealized marine cloud brightening study using the ICON climate model in a slab-ocean setup.
 
 ## Project overview
@@ -26,7 +28,7 @@ Marine-Cloud-Brightening/
 │   └── Precipitation_analysis.ipynb
 │
 ├── RadiativeFluxes/
-│   └── readme
+│   └── radiation_plots.ipynb
 │
 ├── Temperature/
 │   └── temperature_analysis.ipynb
